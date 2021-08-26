@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GraphPadPrismFile xmlns="http://graphpad.com/prism/Prism.htm" PrismXMLVersion="5.00">
+<Created>
+<OriginalVersion CreatedByProgram="GraphPad Prism" CreatedByVersion="7.0.2.197" Login="BergsmaE" DateTime="2019-05-31T16:15:14+01:00"/>
+<MostRecentVersion CreatedByProgram="GraphPad Prism" CreatedByVersion="7.0.2.197" Login="BergsmaE" DateTime="2019-05-31T16:23:29+01:00"/>
+</Created>
+<InfoSequence>
+<Ref ID="Info0" Selected="1"/>
+</InfoSequence>
+<Info ID="Info0">
+<Title>Project info 1</Title>
+<Notes>
+</Notes>
+<Constant><Name>Experiment Date</Name><Value>2019-05-31</Value></Constant>
+<Constant><Name>Experiment ID</Name><Value/></Constant>
+<Constant><Name>Notebook ID</Name><Value/></Constant>
+<Constant><Name>Project</Name><Value/></Constant>
+<Constant><Name>Experimenter</Name><Value/></Constant>
+<Constant><Name>Protocol</Name><Value/></Constant>
+</Info>
+
+<TableSequence>
+
+<Ref ID="Table0" Selected="1"/>
+</TableSequence>
+<Table ID="Table0" XFormat="numbers" YFormat="replicates" Replicates="1" TableType="XY" EVFormat="AsteriskAfterNumber">
+<Title>Gas sensor calibration</Title>
+<XColumn Width="132" Subcolumns="1" Decimals="7">
+<Title>Adjusted flow (ml/min)</Title>
+<Subcolumn>
+<d>0</d>
+<d>99,0684634</d>
+<d>198,1369268</d>
+<d>297,2053902</d>
+<d>396,2738536</d>
+<d>495,342317</d>
+<d>594,4107804</d>
+<d>693,4792438</d>
+<d>792,5477072</d>
+<d>891,6161706</d>
+<d>990,684634</d>
+</Subcolumn>
+</XColumn>
+<XAdvancedColumn Version="1" Width="132" Decimals="7" Subcolumns="1">
+<Title>Adjusted flow (ml/min)</Title>
+<Subcolumn>
+<d>0</d>
+<d>99,0684634</d>
+<d>198,1369268</d>
+<d>297,2053902</d>
+<d>396,2738536</d>
+<d>495,342317</d>
+<d>594,4107804</d>
+<d>693,4792438</d>
+<d>792,5477072</d>
+<d>891,6161706</d>
+<d>990,684634</d>
+</Subcolumn>
+</XAdvancedColumn>
+<YColumn Width="91" Decimals="0" Subcolumns="1">
+<Title>Signal (0-1023)</Title>
+<Subcolumn>
+<d>204</d>
+<d>394</d>
+<d>542</d>
+<d>660</d>
+<d>750</d>
+<d>812</d>
+<d>859</d>
+<d>924</d>
+<d>949</d>
+<d>991</d>
+<d>1018</d>
+</Subcolumn>
+</YColumn>
+</Table>
+
+<!--Analyses, graphs and layouts as compressed binary. Don't edit this part of the file.-->
+
+<Template xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">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
+YPlZk5SjcjcsnyjkiI/bJilH5bz6VuuiVd/vBfdrDuF+Ck59akC2SOpDq9tZ6Y/bPQ5bOLUh
+Zu6s2lbrgqstkWG5rQm1xLPgATTijnNYi+bTVmcxnV9q99jgzJcSBuPlgFaFn8BF8ghBvgba
+tq0RsCwL2traQGFhIXeM8vPnz3O/v091eiKwfjAwMKLBRdYb1LgEGIU04RseGP3AwMDoBJdA
+DOW7dOrogaMzroPr4DqR15HGVlI2tuKWwnVwna54kQJ7Ea6D63TTiyi8zsPA6OI6z+tFSuxF
+GBjd9CIV9iIMjG56kRp7EQZGl3CRYZnnxK1d0tcg/iB+tYKP6DdymzpQHM9/C6/W56z325Re
+oOM8zUlIZPZCq+MozJfEALD41KUNH+cescQfW9WU/gwVG1PUlmA505B6xpFTq12V/Kum/OJ9
+5Ibm9ScSz124lVpw2/B2Ue+FP1n9gb5+ZOyJL/d3VJ76JLPkbwULDikAYwNt6fvX3vxmz8f1
+JaWnNgz6KG2D68Ob1RuH1q8ErdOvHlXT+utTYg6Mzt377IX9Z0dfatmenD6yaNly7bUnE25+
+/dNNHQ7jy8+PYnYMa5+Wn7Qxk63Wt/Tumz/i8M4nXcObJ++akr2+rbd5cv+TDWWnW/JnHJ7R
+WpoUl/3rL4/2Pzig7kHTE72+6vWmXv3GqO0Wq7l2zSlqc+qO9+YUvDGu6b29v/2H+dGDcVNz
+2elnL/xuzrXDNwz/S33o+uctC95OGLz1z8sbduhfWT+uibCvmJXoPnJlxb9qKv67c6iTXv3o
+v9kpG7+Yl5S17oFcz1F6RP65a6nZow8UVFGvjdk73bQ1/or9XL+98X+fPCW+nd367fyr75S/
+MibrsUzjiY+uvjC4fOmNXeUV/UteSh40akZrzqQVb/Zqe/j9dU+8+Pp/4l56qubV5r9UTNUN
+GvD6lFnGlXlf3EpumvTLCseSdzJ+dnDI8arsTfbB71cn/HH/n24/ldH79MOZ7655beAzjW+d
+iHvu3FV3Vea7WwpUVdtdlxPeYv96YLbNWRzLjBS/GoK2fU11u562FXlou3Oei04P8bUQ7gFR
+iG04d3MT1T3fkg46/1oIQpm4ad//xSInt7XrF4vLbW57mc3pocdbPTbg4pxzWHraiLQMS3om
+rGXyrTVpPKxD8ASQ3Lkuj22uyzXf54RGUpdUaPQhZHNLZ7R8dY+ryOWQSrlMOFrJffhIeAKI
+Xvga88Hx448Fa0+pnxnJKFgGBH6uIloQzP8BAAD//wMAQxPVSw==</Template></GraphPadPrismFile>
